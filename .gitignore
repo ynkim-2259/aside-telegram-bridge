@@ -1,0 +1,12 @@
+# 비밀값과 실행 기록은 저장소에 넣지 않음
+telegram-bot.json
+*.log
+*.jsonl
+state.json
+status.json
+control.json
+session-map.json
+last-output.txt
+inbox/
+__pycache__/
+.DS_Store
